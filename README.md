@@ -15,7 +15,7 @@
     The css folder has notes applied
 
 ## Link to deployed website
-https://jkernusz.github.io/assignment-01/#social-media-marketing
+https://jkernusz.github.io/Horiseon-0-1/
 ## license
 
     MIT License
