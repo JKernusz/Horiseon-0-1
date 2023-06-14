@@ -1,4 +1,4 @@
-# assignment-01
+# Horiseon 0-1
 
 ## Assignment for week 1
 ![screenshot](image.png)
